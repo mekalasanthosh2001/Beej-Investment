@@ -27,10 +27,9 @@ Whether you're a seasoned investor, aspiring founder, or industry professional, 
 Technologies Used:
 HTML: Structuring the content of the web pages.
 CSS: Styling the layout and design elements And CSS Media Quaries.
-HeroSection:
+--------------------------------------------------------------------
 ![image](https://github.com/mekalasanthosh2001/Beej-Investment/assets/104013993/61ba6b16-44ca-4f4a-b0dc-216f28e0266c)
 ![image](https://github.com/mekalasanthosh2001/Beej-Investment/assets/104013993/2507ec61-65d5-4ee7-ae95-c5a0b05efbea)
-Live Campaigns Section:
 ![image](https://github.com/mekalasanthosh2001/Beej-Investment/assets/104013993/9a2f2034-667a-4d24-9f56-87764bcecd51)
 ![image](https://github.com/mekalasanthosh2001/Beej-Investment/assets/104013993/6732cc80-cb88-4c6c-817d-01403d777276)
 ![image](https://github.com/mekalasanthosh2001/Beej-Investment/assets/104013993/c47bc9e4-a9ec-42a7-8435-3c01348856c2)
