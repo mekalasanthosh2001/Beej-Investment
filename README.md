@@ -1,6 +1,9 @@
 Beej Investment Project
+----
 Welcome to Beej Investment, a web project built using HTML and CSS to showcase investment opportunities and connect investors with founders and professionals.
+----
 ** Beej Investment is a web platform designed to foster connections within the investment community. Our project features various sections such as live campaigns, featured investors, and founder registrations to facilitate meaningful interactions.**
+----
 Sections Overview:
 Hero Section: Engaging introduction to the project.
 Live Campaigns: Highlighting current investment campaigns.
@@ -17,6 +20,7 @@ FAQs: Commonly asked questions and their answers.
 Knowledge Sharing: Platform for sharing investment insights.
 Footer Section: Contact information and additional resources.
 
+----
 Key Features:
 User Registrations: Seamless registration process for founders and investors.
 Interactive Sections: Engaging components like live campaigns and closed investments.
